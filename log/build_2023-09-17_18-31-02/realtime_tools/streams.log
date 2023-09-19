@@ -1,0 +1,58 @@
+[0.080s] Invoking command in '/home/vincentspada/unitree_ws/build/realtime_tools': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/realtime_tools -- -j4 -l4
+[0.327s] [35m[1mConsolidate compiler generated dependencies of target realtime_tools[0m
+[0.327s] [35m[1mConsolidate compiler generated dependencies of target thread_priority[0m
+[0.391s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.403s] [  9%] Built target thread_priority
+[0.429s] [ 19%] Built target realtime_tools
+[0.454s] [ 28%] Built target gmock_main
+[0.504s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.608s] [ 42%] Built target gmock
+[0.664s] [35m[1mConsolidate compiler generated dependencies of target realtime_box_tests[0m
+[0.742s] [ 52%] Built target realtime_box_tests
+[0.782s] [35m[1mConsolidate compiler generated dependencies of target realtime_publisher_tests_non_polling[0m
+[0.835s] [ 61%] Built target realtime_publisher_tests_non_polling
+[0.872s] [35m[1mConsolidate compiler generated dependencies of target realtime_publisher_tests[0m
+[0.970s] [ 71%] Built target realtime_publisher_tests
+[1.016s] [35m[1mConsolidate compiler generated dependencies of target realtime_server_goal_handle_tests[0m
+[1.069s] [ 80%] Built target realtime_server_goal_handle_tests
+[1.103s] [35m[1mConsolidate compiler generated dependencies of target realtime_clock_tests[0m
+[1.229s] [ 90%] Built target realtime_clock_tests
+[1.318s] [35m[1mConsolidate compiler generated dependencies of target realtime_buffer_tests[0m
+[1.414s] [100%] Built target realtime_buffer_tests
+[2.352s] Invoked command in '/home/vincentspada/unitree_ws/build/realtime_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/realtime_tools -- -j4 -l4
+[2.650s] Invoking command in '/home/vincentspada/unitree_ws/build/realtime_tools': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/realtime_tools
+[2.661s] -- Install configuration: ""
+[2.662s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools
+[2.663s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools
+[2.663s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/realtime_publisher.h
+[2.664s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/realtime_server_goal_handle.h
+[2.665s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/realtime_box.h
+[2.666s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/thread_priority.hpp
+[2.666s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/realtime_clock.h
+[2.667s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/include/realtime_tools/realtime_tools/realtime_buffer.h
+[2.668s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/lib/librealtime_tools.so
+[2.669s] -- Set runtime path of "/home/vincentspada/unitree_ws/install/realtime_tools/lib/librealtime_tools.so" to ""
+[2.670s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/lib/libthread_priority.so
+[2.671s] -- Set runtime path of "/home/vincentspada/unitree_ws/install/realtime_tools/lib/libthread_priority.so" to ""
+[2.672s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/library_path.sh
+[2.672s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/library_path.dsv
+[2.673s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/ament_index/resource_index/package_run_dependencies/realtime_tools
+[2.674s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/ament_index/resource_index/parent_prefix_path/realtime_tools
+[2.675s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/ament_prefix_path.sh
+[2.676s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/ament_prefix_path.dsv
+[2.676s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/path.sh
+[2.677s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/environment/path.dsv
+[2.678s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/local_setup.bash
+[2.678s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/local_setup.sh
+[2.679s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/local_setup.zsh
+[2.680s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/local_setup.dsv
+[2.681s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/package.dsv
+[2.681s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/ament_index/resource_index/packages/realtime_tools
+[2.683s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/export_realtime_toolsExport.cmake
+[2.684s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/export_realtime_toolsExport-noconfig.cmake
+[2.685s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/ament_cmake_export_targets-extras.cmake
+[2.685s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.686s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/realtime_toolsConfig.cmake
+[2.687s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/cmake/realtime_toolsConfig-version.cmake
+[2.694s] -- Installing: /home/vincentspada/unitree_ws/install/realtime_tools/share/realtime_tools/package.xml
+[2.703s] Invoked command in '/home/vincentspada/unitree_ws/build/realtime_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/realtime_tools

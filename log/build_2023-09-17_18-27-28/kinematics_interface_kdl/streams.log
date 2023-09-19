@@ -1,0 +1,60 @@
+[0.110s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/kinematics_interface/kinematics_interface_kdl -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/kinematics_interface_kdl
+[0.420s] -- The CXX compiler identification is GNU 11.4.0
+[0.457s] -- Detecting CXX compiler ABI info
+[0.975s] -- Detecting CXX compiler ABI info - done
+[1.025s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.027s] -- Detecting CXX compile features
+[1.036s] -- Detecting CXX compile features - done
+[1.042s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.739s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.046s] -- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+[2.086s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.091s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.091s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.111s] -- Found kinematics_interface: 0.1.0 (/home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake)
+[2.215s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.230s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.275s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.388s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.469s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.734s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.746s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.259s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.380s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.601s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.641s] -- Looking for C++ include pthread.h
+[3.959s] -- Looking for C++ include pthread.h - found
+[3.960s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.354s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.354s] -- Found Threads: TRUE  
+[5.134s] -- Found pluginlib: 5.1.0 (/opt/ros/humble/share/pluginlib/cmake)
+[5.218s] -- Found tf2_eigen_kdl: 0.25.3 (/opt/ros/humble/share/tf2_eigen_kdl/cmake)
+[5.476s] -- Found ament_cmake_gmock: 1.3.5 (/opt/ros/humble/share/ament_cmake_gmock/cmake)
+[5.478s] -- Found ros2_control_test_assets: 2.31.0 (/home/vincentspada/unitree_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake)
+[5.485s] -- Found gmock sources under '/opt/ros/humble/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[5.726s] -- The C compiler identification is GNU 11.4.0
+[5.754s] -- Detecting C compiler ABI info
+[5.995s] -- Detecting C compiler ABI info - done
+[6.050s] -- Check for working C compiler: /usr/bin/cc - skipped
+[6.051s] -- Detecting C compile features
+[6.053s] -- Detecting C compile features - done
+[6.062s] -- Found ament_cmake_gtest: 1.3.5 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[6.066s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[6.362s] -- Configuring done
+[6.468s] -- Generating done
+[6.483s] -- Build files have been written to: /home/vincentspada/unitree_ws/build/kinematics_interface_kdl
+[6.540s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl' returned '0': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/kinematics_interface/kinematics_interface_kdl -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/kinematics_interface_kdl
+[6.541s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/kinematics_interface_kdl -- -j4 -l4
+[6.822s] [ 11%] [32mBuilding CXX object CMakeFiles/kinematics_interface_kdl.dir/src/kinematics_interface_kdl.cpp.o[0m
+[28.113s] [ 22%] [32m[1mLinking CXX shared library libkinematics_interface_kdl.so[0m
+[29.238s] [ 22%] Built target kinematics_interface_kdl
+[29.349s] [ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/humble/src/gtest_vendor/src/gtest-all.cc.o[0m
+[41.710s] [ 44%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[48.927s] [ 55%] [32m[1mLinking CXX static library libgmock.a[0m
+[49.353s] [ 55%] Built target gmock
+[49.400s] [ 66%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[54.152s] [ 77%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[54.356s] [ 77%] Built target gmock_main
+[54.425s] [ 88%] [32mBuilding CXX object CMakeFiles/test_kinematics_interface_kdl.dir/test/test_kinematics_interface_kdl.cpp.o[0m
+[73.947s] [100%] [32m[1mLinking CXX executable test_kinematics_interface_kdl[0m
+[74.855s] [100%] Built target test_kinematics_interface_kdl

@@ -1,0 +1,32 @@
+[0.048s] Invoking command in '/home/vincentspada/unitree_ws/build/control_msgs': CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/ros2_control_demo_description:/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/kinematics_interface_kdl:/home/vincentspada/unitree_ws/install/kinematics_interface:/home/vincentspada/unitree_ws/install/joint_limits:/home/vincentspada/unitree_ws/install/controller_manager_msgs:/home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes:/home/vincentspada/unitree_ws/install/control_msgs:/home/vincentspada/catkin_ws/devel /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/control_msgs/control_msgs -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/control_msgs
+[0.256s] -- The C compiler identification is GNU 11.4.0
+[0.496s] -- The CXX compiler identification is GNU 11.4.0
+[0.514s] -- Detecting C compiler ABI info
+[0.744s] -- Detecting C compiler ABI info - done
+[0.770s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.770s] -- Detecting C compile features
+[0.771s] -- Detecting C compile features - done
+[0.782s] -- Detecting CXX compiler ABI info
+[1.055s] -- Detecting CXX compiler ABI info - done
+[1.073s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.074s] -- Detecting CXX compile features
+[1.075s] -- Detecting CXX compile features - done
+[1.103s] -- Configuring incomplete, errors occurred!
+[1.103s] See also "/home/vincentspada/unitree_ws/build/control_msgs/CMakeFiles/CMakeOutput.log".
+[1.103s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[1.103s]   By not providing "Findaction_msgs.cmake" in CMAKE_MODULE_PATH this project
+[1.103s]   has asked CMake to find a package configuration file provided by
+[1.104s]   "action_msgs", but CMake did not find one.
+[1.104s] 
+[1.104s]   Could not find a package configuration file provided by "action_msgs" with
+[1.104s]   any of the following names:
+[1.104s] 
+[1.104s]     action_msgsConfig.cmake
+[1.105s]     action_msgs-config.cmake
+[1.105s] 
+[1.105s]   Add the installation prefix of "action_msgs" to CMAKE_PREFIX_PATH or set
+[1.105s]   "action_msgs_DIR" to a directory containing one of the above files.  If
+[1.105s]   "action_msgs" provides a separate development package or SDK, be sure it
+[1.105s]   has been installed.
+[1.105s] 
+[1.106s] [0m

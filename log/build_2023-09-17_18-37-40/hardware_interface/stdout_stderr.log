@@ -1,0 +1,14 @@
+[ 15%] Built target hardware_interface
+[ 23%] Built target gmock
+[ 28%] Built target gmock_main
+[ 33%] Built target mock_components
+[ 43%] Built target test_components
+[ 51%] Built target fake_components
+[ 64%] Built target test_hardware_components
+[ 69%] Built target test_macros
+[ 74%] Built target test_resource_manager
+[ 79%] Built target test_generic_system
+[ 84%] Built target test_inst_hardwares
+[ 89%] Built target test_joint_handle
+[ 94%] Built target test_component_interfaces
+[100%] Built target test_component_parser

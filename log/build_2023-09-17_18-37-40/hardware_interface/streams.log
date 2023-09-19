@@ -1,0 +1,15 @@
+[0.070s] Invoking command in '/home/vincentspada/unitree_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/hardware_interface -- -j4 -l4
+[0.329s] [ 15%] Built target hardware_interface
+[0.337s] [ 23%] Built target gmock
+[0.350s] [ 28%] Built target gmock_main
+[0.475s] [ 33%] Built target mock_components
+[0.533s] [ 43%] Built target test_components
+[0.534s] [ 51%] Built target fake_components
+[0.542s] [ 64%] Built target test_hardware_components
+[0.635s] [ 69%] Built target test_macros
+[0.657s] [ 74%] Built target test_resource_manager
+[0.675s] [ 79%] Built target test_generic_system
+[0.686s] [ 84%] Built target test_inst_hardwares
+[0.781s] [ 89%] Built target test_joint_handle
+[0.810s] [ 94%] Built target test_component_interfaces
+[0.825s] [100%] Built target test_component_parser

@@ -1,0 +1,54 @@
+[ 24%] Built target control_toolbox
+[ 27%] Built target low_pass_filter_parameters
+[ 37%] Built target gmock
+[ 44%] Built target gmock_main
+[ 51%] Built target gtest
+[ 58%] Built target gtest_main
+[ 65%] Built target low_pass_filter
+[ 72%] Built target pid_tests
+[ 79%] Built target pid_parameters_tests
+[ 86%] Built target pid_publisher_tests
+[ 93%] Built target test_low_pass_filter
+[100%] Built target test_load_low_pass_filter
+-- Install configuration: ""
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/low_pass_filter_parameters
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/low_pass_filter_parameters/low_pass_filter_parameters.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/control_filters.xml
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_filters
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_filters/low_pass_filter.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/visibility_control.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/pid.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/filters.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/sinusoid.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/limited_proxy.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/dither.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/pid_ros.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/sine_sweep.hpp
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/lib/libcontrol_toolbox.so
+-- Set runtime path of "/home/vincentspada/unitree_ws/install/control_toolbox/lib/libcontrol_toolbox.so" to ""
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/lib/liblow_pass_filter.so
+-- Set runtime path of "/home/vincentspada/unitree_ws/install/control_toolbox/lib/liblow_pass_filter.so" to ""
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/library_path.sh
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/library_path.dsv
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/package_run_dependencies/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/parent_prefix_path/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/ament_prefix_path.sh
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/ament_prefix_path.dsv
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/path.sh
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/path.dsv
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.bash
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.sh
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.zsh
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.dsv
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/package.dsv
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/packages/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/filters__pluginlib__plugin/control_toolbox
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/export_control_toolboxExport.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/export_control_toolboxExport-noconfig.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/control_toolboxConfig.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/control_toolboxConfig-version.cmake
+-- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/package.xml

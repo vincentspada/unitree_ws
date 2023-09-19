@@ -1,0 +1,4 @@
+Invoking command in '/home/vincentspada/unitree_ws/build/joint_limits': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/joint_limits -- -j4 -l4
+Invoked command in '/home/vincentspada/unitree_ws/build/joint_limits' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/joint_limits -- -j4 -l4
+Invoking command in '/home/vincentspada/unitree_ws/build/joint_limits': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/joint_limits
+Invoked command in '/home/vincentspada/unitree_ws/build/joint_limits' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/joint_limits

@@ -1,0 +1,41 @@
+[0.002s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/kinematics_interface_kdl -- -j4 -l4
+[0.167s] [35m[1mConsolidate compiler generated dependencies of target kinematics_interface_kdl[0m
+[0.213s] [ 22%] Built target kinematics_interface_kdl
+[0.244s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.290s] [ 55%] Built target gmock
+[0.318s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.364s] [ 77%] Built target gmock_main
+[0.397s] [35m[1mConsolidate compiler generated dependencies of target test_kinematics_interface_kdl[0m
+[0.471s] [100%] Built target test_kinematics_interface_kdl
+[0.511s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl' returned '0': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/kinematics_interface_kdl -- -j4 -l4
+[0.618s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/kinematics_interface_kdl
+[0.635s] -- Install configuration: ""
+[0.635s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/kinematics_interface_kdl.xml
+[0.637s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/include/kinematics_interface_kdl
+[0.637s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/include/kinematics_interface_kdl/kinematics_interface_kdl
+[0.638s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/include/kinematics_interface_kdl/kinematics_interface_kdl/kinematics_interface_kdl.hpp
+[0.638s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/lib/libkinematics_interface_kdl.so
+[0.650s] -- Set runtime path of "/home/vincentspada/unitree_ws/install/kinematics_interface_kdl/lib/libkinematics_interface_kdl.so" to ""
+[0.650s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/library_path.sh
+[0.653s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/library_path.dsv
+[0.653s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/ament_index/resource_index/package_run_dependencies/kinematics_interface_kdl
+[0.653s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/ament_index/resource_index/parent_prefix_path/kinematics_interface_kdl
+[0.654s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/ament_prefix_path.sh
+[0.654s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/ament_prefix_path.dsv
+[0.654s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/path.sh
+[0.654s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/environment/path.dsv
+[0.654s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/local_setup.bash
+[0.660s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/local_setup.sh
+[0.660s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/local_setup.zsh
+[0.661s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/local_setup.dsv
+[0.661s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/package.dsv
+[0.663s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/ament_index/resource_index/packages/kinematics_interface_kdl
+[0.668s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/ament_index/resource_index/kinematics_interface__pluginlib__plugin/kinematics_interface_kdl
+[0.668s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/export_kinematics_interface_kdlExport.cmake
+[0.668s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/export_kinematics_interface_kdlExport-noconfig.cmake
+[0.668s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/ament_cmake_export_targets-extras.cmake
+[0.669s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.675s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/kinematics_interface_kdlConfig.cmake
+[0.675s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/cmake/kinematics_interface_kdlConfig-version.cmake
+[0.675s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface_kdl/share/kinematics_interface_kdl/package.xml
+[0.689s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface_kdl' returned '0': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/kinematics_interface:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/kinematics_interface/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/kinematics_interface_kdl

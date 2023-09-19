@@ -1,0 +1,42 @@
+[0.069s] Invoking command in '/home/vincentspada/unitree_ws/build/control_toolbox': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/control_toolbox -- -j4 -l4
+[0.351s] [  3%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[0.361s] [  6%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/dither.cpp.o[0m
+[0.417s] [ 10%] [34m[1mRunning `/opt/ros/humble/bin/generate_parameter_library_cpp /home/vincentspada/unitree_ws/build/control_toolbox/low_pass_filter_parameters/include//low_pass_filter_parameters.hpp /home/vincentspada/unitree_ws/src/ros-controls/control_toolbox/src/control_filters/low_pass_filter_parameters.yaml `[0m
+[0.435s] [ 13%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/humble/src/gtest_vendor/src/gtest-all.cc.o[0m
+[1.789s] [ 13%] Built target low_pass_filter_parameters
+[1.990s] [ 17%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[4.254s] [ 20%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/limited_proxy.cpp.o[0m
+[6.845s] [ 24%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/pid_ros.cpp.o[0m
+[7.131s] [ 27%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[7.578s] [ 27%] Built target gtest_main
+[7.604s] [ 31%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[9.253s] [ 34%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[9.675s] [ 34%] Built target gmock_main
+[9.749s] [ 37%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/pid.cpp.o[0m
+[19.976s] [ 41%] [32m[1mLinking CXX static library libgmock.a[0m
+[20.789s] [ 41%] Built target gmock
+[22.122s] [ 44%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/sine_sweep.cpp.o[0m
+[23.449s] [ 48%] [32mBuilding CXX object CMakeFiles/control_toolbox.dir/src/sinusoid.cpp.o[0m
+[24.134s] [ 51%] [32m[1mLinking CXX shared library libcontrol_toolbox.so[0m
+[24.997s] [ 51%] Built target control_toolbox
+[25.050s] [ 55%] [32mBuilding CXX object CMakeFiles/low_pass_filter.dir/src/control_filters/low_pass_filter.cpp.o[0m
+[37.438s] [ 58%] [32m[1mLinking CXX shared library liblow_pass_filter.so[0m
+[38.157s] [ 58%] Built target low_pass_filter
+[38.317s] [ 62%] [32mBuilding CXX object CMakeFiles/pid_tests.dir/test/pid_tests.cpp.o[0m
+[45.121s] [ 65%] [32m[1mLinking CXX executable pid_tests[0m
+[45.713s] [ 65%] Built target pid_tests
+[45.764s] [ 68%] [32mBuilding CXX object CMakeFiles/test_load_low_pass_filter.dir/test/control_filters/test_load_low_pass_filter.cpp.o[0m
+[59.117s] [ 72%] [32m[1mLinking CXX executable test_load_low_pass_filter[0m
+[59.738s] [ 72%] Built target test_load_low_pass_filter
+[59.770s] [ 75%] [32mBuilding CXX object CMakeFiles/test_low_pass_filter.dir/test/control_filters/test_low_pass_filter.cpp.o[0m
+[69.903s] [ 79%] [32m[1mLinking CXX executable test_low_pass_filter[0m
+[70.294s] [ 79%] Built target test_low_pass_filter
+[70.328s] [ 82%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[75.271s] [ 86%] [32m[1mLinking CXX static library libgtest.a[0m
+[75.410s] [ 86%] Built target gtest
+[75.445s] [ 89%] [32mBuilding CXX object CMakeFiles/pid_publisher_tests.dir/test/pid_publisher_tests.cpp.o[0m
+[75.445s] [ 93%] [32mBuilding CXX object CMakeFiles/pid_parameters_tests.dir/test/pid_parameters_tests.cpp.o[0m
+[80.692s] [ 96%] [32m[1mLinking CXX executable pid_parameters_tests[0m
+[81.155s] [ 96%] Built target pid_parameters_tests
+[88.491s] [100%] [32m[1mLinking CXX executable pid_publisher_tests[0m
+[89.482s] [100%] Built target pid_publisher_tests

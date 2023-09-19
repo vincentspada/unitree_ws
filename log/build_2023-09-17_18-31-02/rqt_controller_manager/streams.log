@@ -1,0 +1,52 @@
+[2.021s] Invoking command in '/home/vincentspada/unitree_ws/src/ros-controls/ros2_control/rqt_controller_manager': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/controller_manager_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/controller_manager_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/controller_manager_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/build/rqt_controller_manager/prefix_override:/home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages:/home/vincentspada/unitree_ws/install/controller_manager_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/rqt_controller_manager build --build-base /home/vincentspada/unitree_ws/build/rqt_controller_manager/build install --record /home/vincentspada/unitree_ws/build/rqt_controller_manager/install.log --single-version-externally-managed
+[3.567s] running egg_info
+[3.572s] creating ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info
+[3.572s] writing ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/PKG-INFO
+[3.572s] writing dependency_links to ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/dependency_links.txt
+[3.572s] writing entry points to ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/entry_points.txt
+[3.575s] writing requirements to ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/requires.txt
+[3.575s] writing top-level names to ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/top_level.txt
+[3.575s] writing manifest file '../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/SOURCES.txt'
+[3.575s] reading manifest file '../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/SOURCES.txt'
+[3.578s] writing manifest file '../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info/SOURCES.txt'
+[3.578s] running build
+[3.579s] running build_py
+[3.579s] creating /home/vincentspada/unitree_ws/build/rqt_controller_manager/build
+[3.579s] creating /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib
+[3.579s] creating /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager
+[3.579s] copying rqt_controller_manager/update_combo.py -> /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager
+[3.580s] copying rqt_controller_manager/__init__.py -> /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager
+[3.580s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.580s]   warnings.warn(
+[3.580s] copying rqt_controller_manager/main.py -> /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager
+[3.580s] copying rqt_controller_manager/controller_manager.py -> /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager
+[3.586s] running install
+[3.590s] running install_lib
+[3.594s] creating /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager
+[3.594s] copying /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager/update_combo.py -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager
+[3.594s] copying /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager/__init__.py -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager
+[3.594s] copying /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager/main.py -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager
+[3.594s] copying /home/vincentspada/unitree_ws/build/rqt_controller_manager/build/lib/rqt_controller_manager/controller_manager.py -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager
+[3.595s] byte-compiling /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager/update_combo.py to update_combo.cpython-310.pyc
+[3.595s] byte-compiling /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager/__init__.py to __init__.cpython-310.pyc
+[3.607s] byte-compiling /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager/main.py to main.cpython-310.pyc
+[3.607s] byte-compiling /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager/controller_manager.py to controller_manager.cpython-310.pyc
+[3.617s] running install_data
+[3.618s] creating /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/ament_index
+[3.618s] creating /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/ament_index/resource_index
+[3.620s] creating /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/ament_index/resource_index/packages
+[3.620s] copying resource/rqt_controller_manager -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/ament_index/resource_index/packages
+[3.625s] copying package.xml -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager
+[3.625s] creating /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.625s] copying resource/led_off.png -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.631s] copying resource/controller_info.ui -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.631s] copying resource/controller_manager.ui -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.632s] copying resource/led_red.png -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.632s] copying resource/led_green.png -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.632s] copying resource/cm_icon.png -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager/resource
+[3.632s] copying plugin.xml -> /home/vincentspada/unitree_ws/install/rqt_controller_manager/share/rqt_controller_manager
+[3.636s] running install_egg_info
+[3.637s] Copying ../../../../build/rqt_controller_manager/rqt_controller_manager.egg-info to /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/python3.10/site-packages/rqt_controller_manager-2.31.0-py3.10.egg-info
+[3.645s] running install_scripts
+[3.749s] Installing rqt_controller_manager script to /home/vincentspada/unitree_ws/install/rqt_controller_manager/lib/rqt_controller_manager
+[3.757s] writing list of installed files to '/home/vincentspada/unitree_ws/build/rqt_controller_manager/install.log'

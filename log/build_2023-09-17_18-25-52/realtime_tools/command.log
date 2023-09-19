@@ -1,0 +1,2 @@
+Invoking command in '/home/vincentspada/unitree_ws/build/realtime_tools': /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/realtime_tools -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/realtime_tools
+Invoked command in '/home/vincentspada/unitree_ws/build/realtime_tools' returned '1': /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/realtime_tools -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/realtime_tools

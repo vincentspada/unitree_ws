@@ -1,0 +1,59 @@
+[0.100s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/kinematics_interface/kinematics_interface -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/kinematics_interface
+[0.847s] -- The CXX compiler identification is GNU 11.4.0
+[0.888s] -- Detecting CXX compiler ABI info
+[1.875s] -- Detecting CXX compiler ABI info - done
+[1.990s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.993s] -- Detecting CXX compile features
+[1.994s] -- Detecting CXX compile features - done
+[2.020s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.130s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[4.841s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[5.193s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.230s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.308s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.436s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.605s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.220s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[6.238s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[7.147s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.342s] -- Found FastRTPS: /opt/ros/humble/include  
+[7.730s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.830s] -- Looking for C++ include pthread.h
+[8.556s] -- Looking for C++ include pthread.h - found
+[8.556s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[9.333s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[9.335s] -- Found Threads: TRUE  
+[11.484s] -- Found rclcpp_lifecycle: 16.0.5 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[12.482s] -- Configuring done
+[12.524s] -- Generating done
+[12.528s] -- Build files have been written to: /home/vincentspada/unitree_ws/build/kinematics_interface
+[12.598s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/kinematics_interface/kinematics_interface -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/kinematics_interface
+[12.599s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/kinematics_interface -- -j4 -l4
+[12.952s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/kinematics_interface -- -j4 -l4
+[13.280s] Invoking command in '/home/vincentspada/unitree_ws/build/kinematics_interface': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/kinematics_interface
+[13.336s] -- Install configuration: ""
+[13.338s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/include/kinematics_interface
+[13.351s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/include/kinematics_interface/kinematics_interface
+[13.353s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/include/kinematics_interface/kinematics_interface/visibility_control.h
+[13.357s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/include/kinematics_interface/kinematics_interface/kinematics_interface.hpp
+[13.360s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/library_path.sh
+[13.368s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/library_path.dsv
+[13.372s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/ament_index/resource_index/package_run_dependencies/kinematics_interface
+[13.372s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/ament_index/resource_index/parent_prefix_path/kinematics_interface
+[13.372s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/ament_prefix_path.sh
+[13.372s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/ament_prefix_path.dsv
+[13.376s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/path.sh
+[13.378s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/environment/path.dsv
+[13.381s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/local_setup.bash
+[13.381s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/local_setup.sh
+[13.386s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/local_setup.zsh
+[13.386s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/local_setup.dsv
+[13.386s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/package.dsv
+[13.387s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/ament_index/resource_index/packages/kinematics_interface
+[13.391s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake/export_kinematics_interfaceExport.cmake
+[13.391s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake/ament_cmake_export_targets-extras.cmake
+[13.391s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[13.391s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake/kinematics_interfaceConfig.cmake
+[13.392s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/cmake/kinematics_interfaceConfig-version.cmake
+[13.392s] -- Installing: /home/vincentspada/unitree_ws/install/kinematics_interface/share/kinematics_interface/package.xml
+[13.413s] Invoked command in '/home/vincentspada/unitree_ws/build/kinematics_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/kinematics_interface

@@ -1,0 +1,44 @@
+[3.123s] Invoking command in '/home/vincentspada/unitree_ws/src/ros-controls/ros2_controllers/ros2_controllers_test_nodes': PYTHONPATH=/home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/prefix_override:/home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/ros2_controllers_test_nodes build --build-base /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build install --record /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/install.log --single-version-externally-managed
+[4.265s] running egg_info
+[4.271s] creating ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info
+[4.274s] writing ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/PKG-INFO
+[4.277s] writing dependency_links to ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/dependency_links.txt
+[4.288s] writing entry points to ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/entry_points.txt
+[4.296s] writing requirements to ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/requires.txt
+[4.298s] writing top-level names to ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/top_level.txt
+[4.301s] writing manifest file '../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/SOURCES.txt'
+[4.306s] reading manifest file '../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/SOURCES.txt'
+[4.313s] writing manifest file '../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info/SOURCES.txt'
+[4.323s] running build
+[4.324s] running build_py
+[4.326s] creating /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build
+[4.327s] creating /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib
+[4.328s] creating /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes
+[4.330s] copying ros2_controllers_test_nodes/publisher_joint_trajectory_controller.py -> /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes
+[4.333s] copying ros2_controllers_test_nodes/__init__.py -> /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes
+[4.335s] copying ros2_controllers_test_nodes/publisher_forward_position_controller.py -> /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes
+[4.344s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.344s]   warnings.warn(
+[4.344s] running install
+[4.345s] running install_lib
+[4.345s] creating /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes
+[4.345s] copying /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes/publisher_joint_trajectory_controller.py -> /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes
+[4.345s] copying /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes/__init__.py -> /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes
+[4.345s] copying /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build/lib/ros2_controllers_test_nodes/publisher_forward_position_controller.py -> /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes
+[4.351s] byte-compiling /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes/publisher_joint_trajectory_controller.py to publisher_joint_trajectory_controller.cpython-310.pyc
+[4.356s] byte-compiling /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes/__init__.py to __init__.cpython-310.pyc
+[4.358s] byte-compiling /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes/publisher_forward_position_controller.py to publisher_forward_position_controller.cpython-310.pyc
+[4.361s] running install_data
+[4.364s] creating /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ament_index
+[4.365s] creating /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ament_index/resource_index
+[4.367s] creating /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ament_index/resource_index/packages
+[4.369s] copying resource/ros2_controllers_test_nodes -> /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ament_index/resource_index/packages
+[4.371s] copying package.xml -> /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ros2_controllers_test_nodes
+[4.373s] creating /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/share/ros2_controllers_test_nodes/configs
+[4.374s] running install_egg_info
+[4.380s] Copying ../../../../build/ros2_controllers_test_nodes/ros2_controllers_test_nodes.egg-info to /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages/ros2_controllers_test_nodes-2.25.0-py3.10.egg-info
+[4.384s] running install_scripts
+[4.449s] Installing publisher_forward_position_controller script to /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/ros2_controllers_test_nodes
+[4.451s] Installing publisher_joint_trajectory_controller script to /home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/ros2_controllers_test_nodes
+[4.463s] writing list of installed files to '/home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/install.log'
+[4.584s] Invoked command in '/home/vincentspada/unitree_ws/src/ros-controls/ros2_controllers/ros2_controllers_test_nodes' returned '0': PYTHONPATH=/home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/prefix_override:/home/vincentspada/unitree_ws/install/ros2_controllers_test_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/ros2_controllers_test_nodes build --build-base /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/build install --record /home/vincentspada/unitree_ws/build/ros2_controllers_test_nodes/install.log --single-version-externally-managed

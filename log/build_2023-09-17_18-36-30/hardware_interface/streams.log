@@ -1,0 +1,29 @@
+[0.066s] Invoking command in '/home/vincentspada/unitree_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/hardware_interface -- -j4 -l4
+[0.199s] [35m[1mConsolidate compiler generated dependencies of target hardware_interface[0m
+[0.199s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.224s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.252s] [  5%] Built target gmock_main
+[0.302s] [ 20%] Built target hardware_interface
+[0.323s] [ 28%] Built target gmock
+[0.399s] [35m[1mConsolidate compiler generated dependencies of target mock_components[0m
+[0.421s] [35m[1mConsolidate compiler generated dependencies of target test_macros[0m
+[0.428s] [35m[1mConsolidate compiler generated dependencies of target fake_components[0m
+[0.454s] [35m[1mConsolidate compiler generated dependencies of target test_inst_hardwares[0m
+[0.524s] [ 33%] Built target mock_components
+[0.579s] [ 38%] Built target test_inst_hardwares
+[0.579s] [35m[1mConsolidate compiler generated dependencies of target test_joint_handle[0m
+[0.613s] [ 43%] Built target test_macros
+[0.642s] [ 51%] Built target fake_components
+[0.686s] [35m[1mConsolidate compiler generated dependencies of target test_component_interfaces[0m
+[0.742s] [35m[1mConsolidate compiler generated dependencies of target test_component_parser[0m
+[0.750s] [35m[1mConsolidate compiler generated dependencies of target test_components[0m
+[0.799s] [ 56%] Built target test_joint_handle
+[0.872s] [ 61%] Built target test_component_interfaces
+[0.888s] [ 71%] Built target test_components
+[0.895s] [ 76%] Built target test_component_parser
+[0.949s] [35m[1mConsolidate compiler generated dependencies of target test_hardware_components[0m
+[0.979s] [35m[1mConsolidate compiler generated dependencies of target test_resource_manager[0m
+[1.039s] [35m[1mConsolidate compiler generated dependencies of target test_generic_system[0m
+[1.099s] [ 82%] Built target test_resource_manager
+[1.122s] [ 94%] Built target test_hardware_components
+[1.187s] [100%] Built target test_generic_system

@@ -1,0 +1,21 @@
+[0.047s] Invoking command in '/home/vincentspada/unitree_ws/build/control_msgs': /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/control_msgs/control_msgs -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/control_msgs
+[0.102s] -- Configuring incomplete, errors occurred!
+[0.102s] See also "/home/vincentspada/unitree_ws/build/control_msgs/CMakeFiles/CMakeOutput.log".
+[0.121s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[0.121s]   By not providing "Findaction_msgs.cmake" in CMAKE_MODULE_PATH this project
+[0.121s]   has asked CMake to find a package configuration file provided by
+[0.121s]   "action_msgs", but CMake did not find one.
+[0.121s] 
+[0.121s]   Could not find a package configuration file provided by "action_msgs" with
+[0.122s]   any of the following names:
+[0.122s] 
+[0.122s]     action_msgsConfig.cmake
+[0.122s]     action_msgs-config.cmake
+[0.122s] 
+[0.122s]   Add the installation prefix of "action_msgs" to CMAKE_PREFIX_PATH or set
+[0.122s]   "action_msgs_DIR" to a directory containing one of the above files.  If
+[0.123s]   "action_msgs" provides a separate development package or SDK, be sure it
+[0.123s]   has been installed.
+[0.123s] 
+[0.123s] [0m
+[0.162s] Invoked command in '/home/vincentspada/unitree_ws/build/control_msgs' returned '1': /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/control_msgs/control_msgs -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/control_msgs

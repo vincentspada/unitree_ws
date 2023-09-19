@@ -1,0 +1,1 @@
+Invoking command in '/home/vincentspada/unitree_ws/build/controller_manager_msgs': /usr/bin/cmake /home/vincentspada/unitree_ws/src/ros-controls/ros2_control/controller_manager_msgs -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/controller_manager_msgs

@@ -1,0 +1,24 @@
+[0.057s] Invoking command in '/home/vincentspada/unitree_ws/build/control_toolbox': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/control_toolbox -- -j4 -l4
+[0.290s] [35m[1mConsolidate compiler generated dependencies of target control_toolbox[0m
+[0.323s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.325s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.337s] [  3%] Built target low_pass_filter_parameters
+[0.439s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[0.522s] [ 13%] Built target gmock
+[0.533s] [ 20%] Built target gmock_main
+[0.577s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[0.597s] [ 44%] Built target control_toolbox
+[0.598s] [35m[1mConsolidate compiler generated dependencies of target low_pass_filter[0m
+[0.608s] [ 51%] Built target gtest_main
+[0.645s] [35m[1mConsolidate compiler generated dependencies of target pid_tests[0m
+[0.713s] [ 58%] Built target gtest
+[0.785s] [ 65%] Built target pid_tests
+[0.806s] [ 72%] Built target low_pass_filter
+[0.846s] [35m[1mConsolidate compiler generated dependencies of target pid_publisher_tests[0m
+[0.857s] [35m[1mConsolidate compiler generated dependencies of target pid_parameters_tests[0m
+[0.922s] [35m[1mConsolidate compiler generated dependencies of target test_load_low_pass_filter[0m
+[0.937s] [35m[1mConsolidate compiler generated dependencies of target test_low_pass_filter[0m
+[0.991s] [ 79%] Built target pid_publisher_tests
+[1.050s] [ 86%] Built target pid_parameters_tests
+[1.106s] [ 93%] Built target test_load_low_pass_filter
+[1.123s] [100%] Built target test_low_pass_filter

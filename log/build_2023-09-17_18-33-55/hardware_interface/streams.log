@@ -1,0 +1,54 @@
+[0.055s] Invoking command in '/home/vincentspada/unitree_ws/build/hardware_interface': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/ros2_control_test_assets:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/hardware_interface -- -j4 -l4
+[0.233s] [  2%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/humble/src/gtest_vendor/src/gtest-all.cc.o[0m
+[0.254s] [  5%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/actuator.cpp.o[0m
+[0.260s] [  7%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[0.316s] [ 10%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[5.460s] [ 12%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/component_parser.cpp.o[0m
+[6.413s] [ 15%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[6.776s] [ 15%] Built target gmock_main
+[6.830s] [ 17%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/resource_manager.cpp.o[0m
+[13.255s] [ 20%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/sensor.cpp.o[0m
+[19.990s] [ 23%] [32m[1mLinking CXX static library libgmock.a[0m
+[20.856s] [ 23%] Built target gmock
+[24.330s] [ 25%] [32mBuilding CXX object CMakeFiles/hardware_interface.dir/src/system.cpp.o[0m
+[25.769s] [ 28%] [32m[1mLinking CXX shared library libhardware_interface.so[0m
+[26.431s] [ 28%] Built target hardware_interface
+[26.467s] [ 30%] [32mBuilding CXX object CMakeFiles/test_macros.dir/test/test_macros.cpp.o[0m
+[27.500s] [ 33%] [32mBuilding CXX object CMakeFiles/test_inst_hardwares.dir/test/test_inst_hardwares.cpp.o[0m
+[28.528s] [ 35%] [32mBuilding CXX object CMakeFiles/fake_components.dir/src/mock_components/generic_system.cpp.o[0m
+[29.240s] [ 38%] [32m[1mLinking CXX executable test_macros[0m
+[29.669s] [ 41%] [32mBuilding CXX object CMakeFiles/mock_components.dir/src/mock_components/generic_system.cpp.o[0m
+[29.759s] [ 41%] Built target test_macros
+[29.815s] [ 43%] [32mBuilding CXX object CMakeFiles/test_joint_handle.dir/test/test_handle.cpp.o[0m
+[32.705s] [ 46%] [32m[1mLinking CXX executable test_inst_hardwares[0m
+[33.918s] [ 46%] Built target test_inst_hardwares
+[34.033s] [ 48%] [32mBuilding CXX object CMakeFiles/test_component_interfaces.dir/test/test_component_interfaces.cpp.o[0m
+[34.234s] [ 51%] [32mBuilding CXX object CMakeFiles/fake_components.dir/src/mock_components/fake_generic_system.cpp.o[0m
+[35.103s] [ 53%] [32m[1mLinking CXX executable test_joint_handle[0m
+[35.310s] [ 56%] [32m[1mLinking CXX shared library libmock_components.so[0m
+[35.904s] [ 56%] Built target test_joint_handle
+[35.973s] [ 56%] Built target mock_components
+[36.026s] [ 58%] [32mBuilding CXX object CMakeFiles/test_component_parser.dir/test/test_component_parser.cpp.o[0m
+[36.028s] [ 61%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_actuator.cpp.o[0m
+[38.697s] [ 64%] [32m[1mLinking CXX shared library libfake_components.so[0m
+[39.492s] [ 64%] Built target fake_components
+[40.099s] [ 66%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_sensor.cpp.o[0m
+[43.448s] [ 69%] [32m[1mLinking CXX executable test_component_interfaces[0m
+[43.459s] [ 71%] [32mBuilding CXX object CMakeFiles/test_components.dir/test/test_components/test_system.cpp.o[0m
+[44.456s] [ 71%] Built target test_component_interfaces
+[45.852s] [ 74%] [32m[1mLinking CXX executable test_component_parser[0m
+[46.691s] [ 76%] [32m[1mLinking CXX shared library libtest_components.so[0m
+[46.831s] [ 76%] Built target test_component_parser
+[47.036s] [ 76%] Built target test_components
+[47.070s] [ 79%] [32mBuilding CXX object CMakeFiles/test_generic_system.dir/test/mock_components/test_generic_system.cpp.o[0m
+[51.702s] [ 82%] [32m[1mLinking CXX executable test_generic_system[0m
+[52.323s] [ 82%] Built target test_generic_system
+[52.357s] [ 84%] [32mBuilding CXX object CMakeFiles/test_resource_manager.dir/test/test_resource_manager.cpp.o[0m
+[57.772s] [ 87%] [32m[1mLinking CXX executable test_resource_manager[0m
+[58.499s] [ 87%] Built target test_resource_manager
+[58.536s] [ 89%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_single_joint_actuator.cpp.o[0m
+[61.084s] [ 92%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_system_with_command_modes.cpp.o[0m
+[63.644s] [ 94%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_two_joint_system.cpp.o[0m
+[65.792s] [ 97%] [32mBuilding CXX object CMakeFiles/test_hardware_components.dir/test/test_hardware_components/test_force_torque_sensor.cpp.o[0m
+[68.097s] [100%] [32m[1mLinking CXX shared library libtest_hardware_components.so[0m
+[68.455s] [100%] Built target test_hardware_components

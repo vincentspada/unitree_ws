@@ -1,0 +1,58 @@
+[0.083s] Invoking command in '/home/vincentspada/unitree_ws/build/control_toolbox': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/control_toolbox -- -j4 -l4
+[0.305s] [ 24%] Built target control_toolbox
+[0.331s] [ 27%] Built target low_pass_filter_parameters
+[0.341s] [ 37%] Built target gmock
+[0.393s] [ 44%] Built target gmock_main
+[0.434s] [ 51%] Built target gtest
+[0.435s] [ 58%] Built target gtest_main
+[0.543s] [ 65%] Built target low_pass_filter
+[0.560s] [ 72%] Built target pid_tests
+[0.635s] [ 79%] Built target pid_parameters_tests
+[0.681s] [ 86%] Built target pid_publisher_tests
+[0.723s] [ 93%] Built target test_low_pass_filter
+[0.767s] [100%] Built target test_load_low_pass_filter
+[0.803s] Invoked command in '/home/vincentspada/unitree_ws/build/control_toolbox' returned '0': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/vincentspada/unitree_ws/build/control_toolbox -- -j4 -l4
+[0.978s] Invoking command in '/home/vincentspada/unitree_ws/build/control_toolbox': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/control_toolbox
+[1.007s] -- Install configuration: ""
+[1.009s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/low_pass_filter_parameters
+[1.011s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/low_pass_filter_parameters/low_pass_filter_parameters.hpp
+[1.011s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/control_filters.xml
+[1.012s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox
+[1.012s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_filters
+[1.012s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_filters/low_pass_filter.hpp
+[1.012s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox
+[1.012s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/visibility_control.hpp
+[1.013s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/pid.hpp
+[1.013s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/filters.hpp
+[1.014s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/sinusoid.hpp
+[1.014s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/limited_proxy.hpp
+[1.015s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/dither.hpp
+[1.015s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/pid_ros.hpp
+[1.016s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/include/control_toolbox/control_toolbox/sine_sweep.hpp
+[1.017s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/lib/libcontrol_toolbox.so
+[1.022s] -- Set runtime path of "/home/vincentspada/unitree_ws/install/control_toolbox/lib/libcontrol_toolbox.so" to ""
+[1.023s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/lib/liblow_pass_filter.so
+[1.026s] -- Set runtime path of "/home/vincentspada/unitree_ws/install/control_toolbox/lib/liblow_pass_filter.so" to ""
+[1.029s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/library_path.sh
+[1.030s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/library_path.dsv
+[1.030s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/package_run_dependencies/control_toolbox
+[1.030s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/parent_prefix_path/control_toolbox
+[1.030s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/ament_prefix_path.sh
+[1.030s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/ament_prefix_path.dsv
+[1.031s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/path.sh
+[1.031s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/environment/path.dsv
+[1.031s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.bash
+[1.031s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.sh
+[1.032s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.zsh
+[1.032s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/local_setup.dsv
+[1.032s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/package.dsv
+[1.033s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/packages/control_toolbox
+[1.033s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/ament_index/resource_index/filters__pluginlib__plugin/control_toolbox
+[1.034s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/export_control_toolboxExport.cmake
+[1.034s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/export_control_toolboxExport-noconfig.cmake
+[1.035s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/ament_cmake_export_targets-extras.cmake
+[1.035s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.036s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/control_toolboxConfig.cmake
+[1.036s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/cmake/control_toolboxConfig-version.cmake
+[1.037s] -- Installing: /home/vincentspada/unitree_ws/install/control_toolbox/share/control_toolbox/package.xml
+[1.047s] Invoked command in '/home/vincentspada/unitree_ws/build/control_toolbox' returned '0': AMENT_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/vincentspada/unitree_ws/install/realtime_tools:/home/vincentspada/unitree_ws/install/control_msgs:/opt/ros/humble:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/vincentspada/unitree_ws/install/realtime_tools/lib:/home/vincentspada/unitree_ws/install/control_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/vincentspada/unitree_ws/install/control_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/vincentspada/unitree_ws/build/control_toolbox

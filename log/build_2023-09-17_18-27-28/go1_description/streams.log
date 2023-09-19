@@ -1,0 +1,9 @@
+[0.065s] Invoking command in '/home/vincentspada/unitree_ws/build/go1_description': /usr/bin/cmake /home/vincentspada/unitree_ws/src/robots/go1_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/go1_description
+[0.109s] -- Configuring incomplete, errors occurred!
+[0.109s] [31mCMake Error at CMakeLists.txt:26:
+[0.112s]   Parse error.  Expected "(", got newline with text "
+[0.113s] 
+[0.113s]   ".
+[0.113s] 
+[0.113s] [0m
+[0.124s] Invoked command in '/home/vincentspada/unitree_ws/build/go1_description' returned '1': /usr/bin/cmake /home/vincentspada/unitree_ws/src/robots/go1_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/vincentspada/unitree_ws/install/go1_description
